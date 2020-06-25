@@ -19,7 +19,7 @@ ReactDOM.render(
   <React.StrictMode>
     <ThemeProvider theme={darkTheme}>
       <CssBaseline />
-      <BrowserRouter>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Route path="/" exact component={Main} />
         <Route path="/app/:appTitle" component={AppDetails} />
       </BrowserRouter>
