@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolioAndroid/static/css/main.0e3eed57.chunk.css",
-    "main.js": "/portfolioAndroid/static/js/main.9f6f699d.chunk.js",
-    "main.js.map": "/portfolioAndroid/static/js/main.9f6f699d.chunk.js.map",
+    "main.js": "/portfolioAndroid/static/js/main.9dd36bd0.chunk.js",
+    "main.js.map": "/portfolioAndroid/static/js/main.9dd36bd0.chunk.js.map",
     "runtime-main.js": "/portfolioAndroid/static/js/runtime-main.d2db71d6.js",
     "runtime-main.js.map": "/portfolioAndroid/static/js/runtime-main.d2db71d6.js.map",
     "static/js/2.f3f0c391.chunk.js": "/portfolioAndroid/static/js/2.f3f0c391.chunk.js",
     "static/js/2.f3f0c391.chunk.js.map": "/portfolioAndroid/static/js/2.f3f0c391.chunk.js.map",
     "index.html": "/portfolioAndroid/index.html",
-    "precache-manifest.66d703e21020146caa7470aeba8d9978.js": "/portfolioAndroid/precache-manifest.66d703e21020146caa7470aeba8d9978.js",
+    "precache-manifest.d775e497347f1f48586ec48ca8c621be.js": "/portfolioAndroid/precache-manifest.d775e497347f1f48586ec48ca8c621be.js",
     "service-worker.js": "/portfolioAndroid/service-worker.js",
     "static/css/main.0e3eed57.chunk.css.map": "/portfolioAndroid/static/css/main.0e3eed57.chunk.css.map",
     "static/js/2.f3f0c391.chunk.js.LICENSE.txt": "/portfolioAndroid/static/js/2.f3f0c391.chunk.js.LICENSE.txt",
@@ -69,6 +69,6 @@
     "static/js/runtime-main.d2db71d6.js",
     "static/js/2.f3f0c391.chunk.js",
     "static/css/main.0e3eed57.chunk.css",
-    "static/js/main.9f6f699d.chunk.js"
+    "static/js/main.9dd36bd0.chunk.js"
   ]
 }
