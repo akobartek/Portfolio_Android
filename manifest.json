@@ -1,0 +1,14 @@
+{
+  "homepage": "https://akobartek.github.io/portfolioAndroid/",
+  "short_name": "Portfolio",
+  "name": "My Android Portfolio",
+  "icons": [{
+    "src": "android.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  }],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
