@@ -14,7 +14,7 @@ export const titles = [
 ];
 export const descriptions = [
   "Application created for the needs of the Youth Meeting in Wołczyn, in use since 2019, supporting the organization of the meeting and enabling the sharing of materials.",
-  "Application created for the community named MF Tau to help manage the community and organize the meetings with built-in materials. Made as part of my BSc Thesis.",
+  "Application created for the community named MF Tau to help manage the community and organize the meetings with built-in materials. Made as part of my BSc Thesis. This is the second version, rewritten to match new guidelines and with Jetpack Compose UI.",
   "Application for learning foreign languages by learning the most commonly used words. It has also an Augmented Reality module for learning names of objects that user can scan in the app. Made as part of my Master Thesis.",
   "Application made in a team of two, as part of the hackathon Hack The Crisis Denmark. It serves to support volunteer teams and was created to fight the effects of the coronavirus epidemic.",
   "Application that facilitates the management of duties in the apartment. It enables quick contact of roommates and allows creating joint lists of products and responsibilities. Unfortunately, it's no longer maintained.",
